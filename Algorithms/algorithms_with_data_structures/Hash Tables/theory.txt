@@ -1,0 +1,7 @@
+                HASH TABLES                Uses
+-associative arrays (~~dict())          -Store
+-hash functions                         -retrieve
+-collisions, and                        -delete
+-chaining (цепочки)
+
+# Robin Karp Algorithm
