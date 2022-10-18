@@ -28,7 +28,6 @@ class LinkedList:
             if temp.data == x:
                 return True
             temp = temp.next
-            
         return False
 
     def delete_node(self, data):  # NOT WORKS
